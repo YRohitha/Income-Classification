@@ -1,15 +1,11 @@
 ## Income-Classification
 
 * **Predict whether a person makes over 50K a year or not given their demographic variation.** 
-* To achieve this, several classification techniques are explored and the random forest model yields to the best prediction result
 
 
 ### Description
 
-1. Project goals: Define the high-level objectives and set the intentions for this project. 
-2. Data: Luckily in this project, data is already provided but still needs to be checked if project goals can be met with the available data. 
-3. Analysis: Will have to be thought through, which include the methods and questions that are aligned with the project goals. 
-4. Evaluation: To build conclusions and findings from our analysis.
+1. To achieve this, several classification techniques are explored and the random forest model yields to the best prediction result
 
 
 ### Install Setup
