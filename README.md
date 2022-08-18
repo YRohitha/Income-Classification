@@ -5,7 +5,7 @@
 
 ### Description
 
-1. To achieve this, several classification techniques are explored and the random forest model yields to the best prediction result
+* To achieve this, several classification techniques are explored and the random forest model yields to the best prediction result
 
 
 ### Install Setup
